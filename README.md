@@ -1,2 +1,3 @@
 # epenguin-com
-epenguin.com website implementation
+
+This is my epenguin.com static website implementation using hugo.
